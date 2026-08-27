@@ -12,9 +12,10 @@ for it with Claude Code.
 ### Projects
 
 - **[content-factory](https://github.com/JohnSmith-SG/content-factory)** —
-  multi-agent pipeline that turns an article into a finished post, draws
-  an image, runs an editorial review and auto-publishes to a Telegram
-  channel on schedule. Live: [t.me/ai_pro_cg](https://t.me/ai_pro_cg).
+  pipeline that generates and auto-publishes posts for a Telegram channel
+  at the intersection of AI and corporate governance: turns an article
+  into a finished post, draws an image, runs an editorial review,
+  publishes on schedule. Live: [t.me/ai_pro_cg](https://t.me/ai_pro_cg).
 
 ### Stack
 
