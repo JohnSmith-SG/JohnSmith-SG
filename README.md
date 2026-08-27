@@ -14,8 +14,9 @@ for it with Claude Code.
 - **[content-factory](https://github.com/JohnSmith-SG/content-factory)** —
   pipeline that generates and auto-publishes posts for a Telegram channel
   at the intersection of AI and corporate governance: turns an article
-  into a finished post, draws an image, runs an editorial review,
-  publishes on schedule. Live: [t.me/ai_pro_cg](https://t.me/ai_pro_cg).
+  into a finished post, draws an image, runs an editorial review; one
+  human approval puts the post into the publishing queue and the server
+  publishes it on schedule. Live: [t.me/ai_pro_cg](https://t.me/ai_pro_cg).
 
 ### Stack
 
